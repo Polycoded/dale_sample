@@ -39,5 +39,21 @@
     ],
     "status": "published",
     "createdAt": "2026-05-10T07:36:31.600Z"
+  },
+  {
+    "id": "test03",
+    "name": "003",
+    "category": "Minimal",
+    "description": "test03",
+    "priceRange": "50",
+    "image": "./assets/cards/test03-1.jpg",
+    "images": [
+      "./assets/cards/test03-1.jpg"
+    ],
+    "featured": false,
+    "notes": "",
+    "whatsappLink": "https://wa.me/919999999999?text=I%20am%20interested%20in%20test03",
+    "status": "published",
+    "createdAt": "2026-05-10T07:49:54.632Z"
   }
 ]
