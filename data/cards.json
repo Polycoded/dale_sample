@@ -55,5 +55,21 @@
     "whatsappLink": "https://wa.me/919999999999?text=I%20am%20interested%20in%20test03",
     "status": "published",
     "createdAt": "2026-05-10T07:49:54.632Z"
+  },
+  {
+    "id": "Shdj",
+    "name": "Haiahxh",
+    "category": "Luxury",
+    "description": "Bsosisnd",
+    "priceRange": "43",
+    "image": "./assets/cards/shdj-1.png",
+    "images": [
+      "./assets/cards/shdj-1.png"
+    ],
+    "featured": false,
+    "notes": "",
+    "whatsappLink": "https://wa.me/919999999999?text=I%20am%20interested%20in%20Shdj",
+    "status": "published",
+    "createdAt": "2026-05-10T12:56:21.252Z"
   }
 ]
