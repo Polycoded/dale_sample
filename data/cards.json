@@ -4,7 +4,7 @@
     "name": "Royal Bloom",
     "category": "Luxury",
     "description": "Premium floral invitation with layered textures and elegant detailing.",
-    "priceRange": "₹40 - ₹60",
+    "priceRange": "?40 - ?60",
     "image": "./assets/cards/sample-1.jpg",
     "whatsappLink": "https://wa.me/919999999999?text=I%20am%20interested%20in%20ALR-001"
   },
@@ -13,7 +13,7 @@
     "name": "Velvet Vows",
     "category": "Traditional",
     "description": "Classic wedding card with rich tones, premium board, and timeless styling.",
-    "priceRange": "₹30 - ₹50",
+    "priceRange": "?30 - ?50",
     "image": "./assets/cards/sample-2.jpg",
     "whatsappLink": "https://wa.me/919999999999?text=I%20am%20interested%20in%20ALR-002"
   },
@@ -22,8 +22,22 @@
     "name": "Ivory Grace",
     "category": "Minimal",
     "description": "Clean and modern invitation design for couples who prefer understated elegance.",
-    "priceRange": "₹25 - ₹45",
+    "priceRange": "?25 - ?45",
     "image": "./assets/cards/sample-3.jpg",
     "whatsappLink": "https://wa.me/919999999999?text=I%20am%20interested%20in%20ALR-003"
+  },
+  {
+    "id": "001",
+    "name": "test01",
+    "category": "Traditional",
+    "description": "test001_dale",
+    "priceRange": "Rs 50",
+    "featured": false,
+    "notes": "",
+    "images": [
+      "https://drive.google.com/uc?export=view&id=1TcR6GfzCuAYfhRjs5hnUvHBnEECndLqD"
+    ],
+    "status": "published",
+    "createdAt": "2026-05-10T07:36:31.600Z"
   }
 ]
