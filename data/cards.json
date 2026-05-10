@@ -71,5 +71,21 @@
     "whatsappLink": "https://wa.me/919999999999?text=I%20am%20interested%20in%20Shdj",
     "status": "published",
     "createdAt": "2026-05-10T12:56:21.252Z"
+  },
+  {
+    "id": "Ivan-69",
+    "name": "Daleeeeboyy",
+    "category": "Premium Box",
+    "description": "Lessgoo",
+    "priceRange": "50",
+    "image": "./assets/cards/ivan-69-1.jpg",
+    "images": [
+      "./assets/cards/ivan-69-1.jpg"
+    ],
+    "featured": false,
+    "notes": "Yeaahh",
+    "whatsappLink": "https://wa.me/919999999999?text=I%20am%20interested%20in%20Ivan-69",
+    "status": "published",
+    "createdAt": "2026-05-10T13:26:49.656Z"
   }
 ]
